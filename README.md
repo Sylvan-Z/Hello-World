@@ -1,7 +1,7 @@
 # Hello-World
 My first repo.
 
-Tests communication between an Arduino Nano and Python.
+Testing communication between an Arduino Nano and Python.
 
 ### Schematic of Arduino circuit:
 ![Schematic.png](Master_(Arduino)/Schematic.png)
